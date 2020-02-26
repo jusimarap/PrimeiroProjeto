@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/06 14:32:25.000.379,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/06 18:15:22.000.596,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/07 16:15:03.000.023,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/12 19:21:44.000.857,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 12:27:52.000.110,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 12:30:08.000.776,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 14:54:57.000.954,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 14:56:02.000.583,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 16:37:58.934,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 16:38:22.894,D:\PrimeiroProjeto\Unit1.fmx=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/02/26 16:38:22.894,D:\PrimeiroProjeto\Unit1.pas=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 16:38:25.489,D:\PrimeiroProjeto\Project1.dproj=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+		<Pmaclocal iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
