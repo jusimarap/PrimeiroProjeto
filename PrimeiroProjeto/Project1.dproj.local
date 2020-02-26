@@ -9,10 +9,10 @@
     <Transaction>2020/02/25 12:30:08.000.776,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/02/25 14:54:57.000.954,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2020/02/25 14:56:02.000.583,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/02/26 16:37:58.934,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/02/26 16:38:22.894,D:\PrimeiroProjeto\Unit1.fmx=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2020/02/26 16:38:22.894,D:\PrimeiroProjeto\Unit1.pas=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/02/26 16:38:25.489,D:\PrimeiroProjeto\Project1.dproj=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/26 16:37:58.000.934,=C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 16:38:22.000.894,C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\PrimeiroProjeto\Unit1.fmx</Transaction>
+    <Transaction>2020/02/26 16:38:22.000.894,C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\PrimeiroProjeto\Unit1.pas</Transaction>
+    <Transaction>2020/02/26 16:38:25.000.489,C:\Users\JUSIMAR\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\PrimeiroProjeto\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>
